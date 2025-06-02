@@ -1,5 +1,5 @@
 [![build-badge](https://github.com/30bit/laski/actions/workflows/ci.yml/badge.svg)](https://github.com/30bit/laski/actions)
-[!docs-badge](https://github.com/30bit/laski/actions/workflows/docs.yml/badge.svg)](https://30bit.github.io/laski/laski)
+[![docs-badge](https://github.com/30bit/laski/actions/workflows/docs.yml/badge.svg)](https://30bit.github.io/laski/laski)
 
 # laski
 
