@@ -1,0 +1,16 @@
+[package]
+name = "laski"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+authors = ["Artur Helmanau <m30bit@gmail.com>"]
+categories = ["text-processing", "no-std"]
+keywords = ["ascii", "string", "no_std", "label"]
+description = "Fast and small representation for strings"
+documentation = "https://30bit.github.io/laski/laski"
+repository = "https://github.com/30bit/laski"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+[dev-dependencies]
+quickcheck = { version = "1.0.3", default-features = false }
